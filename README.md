@@ -1,5 +1,9 @@
 # observatori-web
 
+
+Visit https://flowmaps.life.bsc.es/observatori/
+
+
 ## Project setup
 ```
 npm install
