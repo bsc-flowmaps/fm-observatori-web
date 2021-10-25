@@ -5,7 +5,7 @@ Visit https://flowmaps.life.bsc.es/observatori/
 
 ## Project setup
 
-This website has been created using Vue.js (@vue/cli 4.5.13), Node.js (v10.19.0) and npm (6.14.4).
+This website has been created using Vue.js (vue@2.6.14), Vue cli (@vue/cli 4.5.13), Node.js (v10.19.0) and npm (6.14.4).
 
 
 ### First, install Node.js and npm
