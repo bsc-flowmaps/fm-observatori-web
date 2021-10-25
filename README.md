@@ -40,7 +40,7 @@ The following command compiles the project and minifies it for production:
 npm run build
 ```
 
-After finishes, look at the *index.html* inside the *dist/* folder. 
+After finishes, look at the *index.html* inside the *dist/* folder. Configure Apache or Nginx to serve this folder.
 
 
 ### Lints and fixes files
